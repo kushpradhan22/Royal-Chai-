@@ -1,4 +1,33 @@
 # React + Vite
+# Royal Chai – Coming Soon Landing Page ☕👑
+
+A responsive **React-based “Coming Soon” landing page** for a premium instant chai tea brand inspired by royal Indian households.
+
+**Tagline:** Brew the Royal Tradition
+
+---
+
+## ✨ Features
+
+- Elegant, royal-inspired design (gold, brown, cream tones)
+- Fully responsive (mobile-first)
+- Email signup form
+- “Launching Soon” badge
+- Social media icons
+- Clean, readable React code
+
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- HTML5 / CSS3
+- JavaScript (ES6+)
+
+---
+
+## 📂 Project Structure
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
